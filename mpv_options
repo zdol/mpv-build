@@ -1,0 +1,5 @@
+--disable-manpage-build 
+--disable-debug-build 
+--disable-libbluray
+--disable-libass
+--disable-libass-osd

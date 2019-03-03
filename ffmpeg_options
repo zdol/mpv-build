@@ -1,0 +1,4 @@
+--enable-small
+--enable-libmp3lame
+--disable-doc
+--disable-libfribidi
